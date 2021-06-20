@@ -10,7 +10,7 @@ const DeveloperCard = ({ name, links }) => {
         {links.map((link) => {
           return (
             <li>
-              <a href={link.href}>{link.name}</a>
+              <a target="_blank" rel="noreferrer" href={link.href}>{link.name}</a>
             </li>
           );
         })}

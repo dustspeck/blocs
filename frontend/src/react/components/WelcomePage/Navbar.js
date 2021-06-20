@@ -22,7 +22,7 @@ const Navbar = () => {
             <a href="/#about">About Us</a>
           </li>
           <li>
-            <Link to="/game">Sign Up</Link>
+            <Link to="/game">Enter Space</Link>
           </li>
         </ul>
       </div>

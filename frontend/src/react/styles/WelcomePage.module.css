@@ -85,6 +85,7 @@ nav {
 
 .callToAction {
   margin-top: 1.5rem;
+  z-index: 900;
 }
 
 .containerHero h1,
@@ -148,9 +149,6 @@ nav {
   padding: 0;
   /* flex-direction: column; */
   gap: 1rem;
-}
-
-.aboutUsLayoutGrid .developer {
 }
 
 .developerGrid {

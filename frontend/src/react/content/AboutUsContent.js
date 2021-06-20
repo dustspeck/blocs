@@ -8,7 +8,7 @@ const DeveloperContent = [
       },
       {
         name: "Linkedin",
-        href: "https://github.com/manavendrasen",
+        href: "https://linkedin.com/in/vaibhavgarg24",
       },
     ],
   },
@@ -21,7 +21,7 @@ const DeveloperContent = [
       },
       {
         name: "Linkedin",
-        href: "https://linked.com/in/d1vshar",
+        href: "https://linked.com/in/d1vshar/",
       },
     ],
   },
@@ -34,7 +34,7 @@ const DeveloperContent = [
       },
       {
         name: "Linkedin",
-        href: "https://github.com/manavendrasen",
+        href: "https://linkedin.com/in/shubhamrangaa/",
       },
     ],
   },
@@ -47,7 +47,7 @@ const DeveloperContent = [
       },
       {
         name: "Linkedin",
-        href: "https://github.com/manavendrasen",
+        href: "https://linkedin.com/in/manavendrasen/",
       },
     ],
   },
